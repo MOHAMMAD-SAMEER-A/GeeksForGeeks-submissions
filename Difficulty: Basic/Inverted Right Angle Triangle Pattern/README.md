@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1">Inverted Right Angle Triangle Pattern</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an integer<strong> n</strong><strong>.&nbsp;</strong>Write a program to print the <strong>inverted</strong> "Right angle triangle" wall<strong>.&nbsp;</strong>The length&nbsp;of the perpendicular and base&nbsp;is<strong> n.</strong></span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong> <strong> </strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 5
+<strong>Output:
+</strong><span style="font-size: 18pt;">*****<br></span><span style="font-size: 18pt;">****<br></span><span style="font-size: 18pt;">*** <br></span><span style="font-size: 18pt;">**<br></span>*
+<strong>Explanation: </strong>Length of perpendicular and base of triangle is 5.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 3<br><strong>Output:</strong><span style="font-size: 18pt;"><strong><br></strong></span><span style="font-size: 18pt;">*** <br></span><span style="font-size: 18pt;">** <br></span><span style="font-size: 18pt;">*</span>
+<strong>Explanation: </strong>Length of perpendicular and base of triangle is 3.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 &lt;= n &lt;= 20</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;<code>Java</code>&nbsp;
