@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/evaluate-formulae--133849/1">Evaluate Formulae</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given four&nbsp;inputs that are stored in variables <strong>a, b, c,</strong> and <strong>d. </strong>You need to write an expression to evaluate the following formula. Use integer division. The expression should be&nbsp;a single statement.</span></p>
+<p><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/927564/Web/Other/blobid0_1777548660.png" height="100"></p>
+<p><span style="font-size: 18px;"><strong>Examples:<br></strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input</strong>: a = 10, b = 4, c = 7, d = 9
+<strong>Output:</strong> 11
+<strong>Explanation</strong>: 10 + 4 = 14, 14 // 7 = 2(Python) or 14 / 7 = 2(Java or CPP or C), 2 + 9 = 11.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>a = 5, b = 6, c = 8, d = 9<br><strong>Output:</strong> 10<br><strong>Explanation: </strong>5 + 6 = 11, 11 // 8 = 1(Python) or 11 / 7 = 1(Java or CPP or C), 1 + 9 = 10.<br></span></pre>
+<p><strong><span style="font-size: 18px;">Constraints:<br></span></strong><span style="font-size: 18px;">1 ≤ a, b, c, d ≤ 100</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python-operators</code>&nbsp;<code>CPP</code>&nbsp;<code>Java</code>&nbsp;<code>C</code>&nbsp;
